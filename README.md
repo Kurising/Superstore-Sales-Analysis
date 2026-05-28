@@ -26,6 +26,7 @@ and growth opportunities.
 
 ## 📁 Project Structure
 
+```
 superstore-analysis/
 ├── data/
 │   ├── train.csv
@@ -35,6 +36,7 @@ superstore-analysis/
 ├── superstore_analysis.ipynb
 ├── superstore_dashboard.pbix
 └── README.md
+```
 
 ## 📊 Analysis Phases
 
